@@ -1,0 +1,21 @@
+.item__{
+    padding: 20px;
+    border: 1px solid #8c1717;
+    &title {
+        color: orange;
+        font-family: 'Lobster', Lobster, serif;
+        font-size: 48px;
+        font-weight: bold;
+    }
+    &p {
+        color: lime;
+    }
+}
+
+.bordered-container {
+    border: 1px solid lime;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}

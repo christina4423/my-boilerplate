@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# production
+build
+dist
+
+# misc
+.DS_Store
+npm-debug.log
+.vscode
+
+# garbarge pack-ratty stuff
+.zzz-cuts

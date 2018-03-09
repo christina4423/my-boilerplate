@@ -1,0 +1,1 @@
+console.log('file online:  javascript -> layout -> _layout.js');

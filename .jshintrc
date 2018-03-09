@@ -1,0 +1,17 @@
+{
+    "esversion": 6,
+    "jshint devel": true,
+    "devel": true,
+    "node": true,
+    "module": true,
+    "strict":true,
+    "globals": {
+        "require": true, 
+        "const": true, 
+        "gulp": true, 
+        "module": true, 
+        "plugins": true,
+        "document": true
+    }, 
+    "undef": true
+}
